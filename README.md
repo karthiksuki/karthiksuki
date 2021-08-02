@@ -7,8 +7,9 @@
 
 ### Contact me with:
 
-[<img align="left" alt="Discord" width="22px" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-logo-logodownload-download-logotipos-1.png" />][discord]
+Discord: Karthikeyan.G#5345
 Gmail: karthikeyan2021sch@gmail.com
+Linkedin: https://www.linkedin.com/in/karthikeyan-g-86889720b/
 
 
 </br>
@@ -16,12 +17,11 @@ Gmail: karthikeyan2021sch@gmail.com
 
 
 ### Skills I have:
-- 👉 Python
-- 👉 Cyber Security 
-- 👉 Networking
-- 👉 Web Development (Full Stack)
 - 👉 Data Science 
 - 👉 ML / AI
+- 👉 Web Development (Full Stack)
+- 👉 Cyber Security 
+- 👉 Networking
 ---
 
 
@@ -29,4 +29,3 @@ Gmail: karthikeyan2021sch@gmail.com
 
 
 
-[discord]: Karthikeyan.G#5345
