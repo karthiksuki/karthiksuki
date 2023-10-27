@@ -8,7 +8,7 @@
 ### Contact me with:
 
 - Discord: Karthikeyan.G#5345
-- Gmail: karthikeyangan05sch@gmail.com 
+- Gmail: karthikeyangan05@gmail.com 
 - Linkedin: https://www.linkedin.com/in/karthikeyan-g-86889720b/
 
 
