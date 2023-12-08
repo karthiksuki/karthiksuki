@@ -1,4 +1,4 @@
-### Hello world am Karthikeyan G 
+### Hello world am Karthikeyan Ganesh
 
 
 ## I'm a Student, a Developer!!
@@ -9,7 +9,7 @@
 
 - Discord: Karthikeyan.G#5345
 - Gmail: karthikeyangan05@gmail.com 
-- Linkedin: https://www.linkedin.com/in/karthikeyan-g-86889720b/
+- Linkedin: https://www.linkedin.com/in/karthikeyan-g7/
 
 
 </br>
