@@ -18,10 +18,10 @@
 
 ### Skills I have:
 - 👉 Data Science 
-- 👉 ML / AI
-- 👉 Web Development (Full Stack)
+- 👉 ML 
 - 👉 Cyber Security 
 - 👉 Networking
+- 👉 Web Development 
 ---
 
 
