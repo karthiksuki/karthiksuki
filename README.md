@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on *AI/ML, Statistics and Data Science Projects*
   
-- 👨‍💻 Research Scholar, published 3 research papers in the field of Deep Learning, Machine Learning, AI
+- 👨‍💻 Research Scholar, 3 research papers under review in the field of Deep Learning, Machine Learning, AI
 
 - 💬 Purusing Bachelor's in Computer Science & Business Systems
   
