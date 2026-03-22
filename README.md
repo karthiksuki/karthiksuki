@@ -1,20 +1,81 @@
-<h1 align="center">Hi 👋, I'm Karthikeyan Ganesh</h1>
-<h3 align="center">An passionate AI enthusiast</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=karthiksuki&label=Profile%20views&color=0e75b6&style=flat" alt="karthiksuki_count" /> </p>
+<div align="center">
 
+<!-- Dynamic typing header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Karthikeyan+Ganesh+%F0%9F%91%8B;AI+Engineer+%7C+ML+Researcher;Building+production+AI+systems" alt="Typing SVG" />
 
-- 🔭 Currently working on *AI/ML, Statistics Projects*
-  
-- 👨‍💻 Research Scholar, 3 research papers under review in the field of Deep Learning, Machine Learning, AI
+<br/>
 
-- 💬 Purusing Bachelor's in Computer Science & Business Systems
-  
-<p align="right"> <img src="https://th.bing.com/th/id/R.aace76b625b36d67622cc181506c84a3?rik=dn7r6ybndjxn5g&riu=http%3a%2f%2f4.bp.blogspot.com%2f-66FKWAqHb3U%2fU-ZoMM16dqI%2fAAAAAAAAEv8%2fTu3XMqcoaWk%2fs1600%2fHello-World.jpg&ehk=jKakrWJgxRqqCfYQLhDLr1hu%2bzEOGtmE%2b3SQIaWkjgU%3d&risl=&pid=ImgRaw&r=0"> </p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/karthikeyan-g7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthikeyan-g7" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/karthik_gan05/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="karthik_gan05" height="30" width="40" /></a>
+<p>
+  <a href="https://www.linkedin.com/in/karthikeyan-g7/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/karthik_gan05/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=karthiksuki&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://brandeps.com/logo-download/F/Firebase-logo-vector-02.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+</div>
+
+---
+
+## 🧠 About Me
+
+```python
+karthikeyan = {
+    "role"       : "AI Engineer Intern @ Quantum Strides LLC (USA · Remote)",
+    "education"  : "B.Tech CSBS · Rajalakshmi Institute of Technology",
+    "research"   : "3 papers under review — Deep Learning · ML · AI",
+    "built"      : ["Multi-tenant RAG SaaS", "VLM Visual Search Engine",
+                    "Real-time Pose Correction AI", "Academic LLM Assistant"],
+    "interests"  : ["LLMs & GenAI", "MLOps", "Agentic AI", "Computer Vision"],
+    "achievement": "Smart India Hackathon 2025 Finalist 🏆",
+    "community"  : "Head · University Center for Data Science (150+ students mentored)",
+}
+```
+
+---
+
+
+## 🛠️ Tech Stack
+
+**AI / ML / GenAI**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**LLM & GenAI Concepts**
+
+![RAG](https://img.shields.io/badge/RAG-6366F1?style=flat-square)
+![Vector DB](https://img.shields.io/badge/Vector_DB-0F172A?style=flat-square)
+![Embeddings](https://img.shields.io/badge/Embeddings-7C3AED?style=flat-square)
+![Agentic AI](https://img.shields.io/badge/Agentic_AI-059669?style=flat-square)
+![VLMs](https://img.shields.io/badge/VLMs-DC2626?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-0EA5E9?style=flat-square)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-F59E0B?style=flat-square)
+
+**Cloud & MLOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=flat-square&logo=githubactions&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-1565C0?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat-square)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+---
+
+
