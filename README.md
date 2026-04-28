@@ -24,13 +24,10 @@
 ## 🧠 About Me
 
 ```python
-karthikeyan = {
+{
     "role"       : "AI Engineer Intern @ Quantum Strides LLC (USA · Remote)",
-    "education"  : "B.Tech CSBS · Rajalakshmi Institute of Technology",
-    "research"   : "3 papers under review — Deep Learning · ML · AI",
-    "built"      : ["Multi-tenant RAG SaaS", "VLM Visual Search Engine",
-                    "Real-time Pose Correction AI", "Academic LLM Assistant"],
-    "interests"  : ["LLMs & GenAI", "MLOps", "Agentic AI", "Computer Vision"],
+    "education"  : "🎓 Pre-final year Computer Science Undergrad @ RIT (Class of 2023 - 2027)",
+    "interests"  : ["GenAI", "MLOps", "Backend", "System Design", "Open Source Projects", "Agentic AI", "Computer Vision"],
     "achievement": "Smart India Hackathon 2025 Finalist 🏆",
     "community"  : "Head · University Center for Data Science (150+ students mentored)",
 }
