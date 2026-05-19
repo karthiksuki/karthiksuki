@@ -10,10 +10,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://leetcode.com/u/karthik_gan05/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=karthiksuki&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" />
 </p>
 
