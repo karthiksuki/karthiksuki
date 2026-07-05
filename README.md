@@ -22,52 +22,11 @@
 ```python
 {
     "role"       : "AI Engineer Intern @ Quantum Strides LLC (USA · Remote)",
-    "education"  : "🎓 Pre-final year Computer Science Undergrad @ RIT (Class of 2023 - 2027)",
-    "interests"  : ["GenAI", "MLOps", "Backend", "System Design", "Open Source Projects", "Agentic AI", "Computer Vision"],
+    "education"  : "🎓 Final year Computer Science Undergrad @ RIT (Class of 2023 - 2027)",
+    "interests"  : ["GenAI", "MLOps", "Machine Learning", "Backend", "System Design", "Open Source Projects", "Computer Vision"],
     "achievement": "Smart India Hackathon 2025 Finalist 🏆",
     "community"  : "Head · University Center for Data Science (150+ students mentored)",
 }
 ```
 
 ---
-
-
-## 🛠️ Tech Stack
-
-**AI / ML / GenAI**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-
-**LLM & GenAI Concepts**
-
-![RAG](https://img.shields.io/badge/RAG-6366F1?style=flat-square)
-![Vector DB](https://img.shields.io/badge/Vector_DB-0F172A?style=flat-square)
-![Embeddings](https://img.shields.io/badge/Embeddings-7C3AED?style=flat-square)
-![Agentic AI](https://img.shields.io/badge/Agentic_AI-059669?style=flat-square)
-![VLMs](https://img.shields.io/badge/VLMs-DC2626?style=flat-square)
-![MCP](https://img.shields.io/badge/MCP-0EA5E9?style=flat-square)
-![Tool Calling](https://img.shields.io/badge/Tool_Calling-F59E0B?style=flat-square)
-
-**Cloud & MLOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?style=flat-square&logo=githubactions&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-1565C0?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-F97316?style=flat-square)
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
----
-
