@@ -19,13 +19,13 @@
 
 ## 🧠 About Me
 
-```python
+```json
 {
-    "role"       : "AI Engineer Intern @ Quantum Strides LLC (USA · Remote)",
-    "education"  : "🎓 Final year Computer Science Undergrad @ RIT (Class of 2023 - 2027)",
-    "interests"  : ["GenAI", "MLOps", "Machine Learning", "Backend", "System Design", "Open Source Projects", "Computer Vision"],
+    "role"       : "Software Engineer @ Quantum Strides LLC with 1+ YOE",
+    "education"  : "🎓 Final-year Computer Science Undergrad @ RIT (Class of 2023 - 2027)",
+    "interests"  : ["AI/ML", "MLOps", "Full-stack Development", "Backend Development", "System Design", "Open Source Projects"],
     "achievement": "Smart India Hackathon 2025 Finalist 🏆",
-    "community"  : "Head · University Center for Data Science (150+ students mentored)",
+    "community"  : "Head · University Center for Data Science; organized multiple flagship events and mentorship programs",
 }
 ```
 
